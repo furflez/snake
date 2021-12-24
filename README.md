@@ -1,17 +1,16 @@
 
 # Furflez Console Snake
 
-Mais um pequeno exercício de teste de conhecimento 
+Mais um pequeno exercício de teste de conhecimento.
 
 ## Motivação
-Após desenvolver o campo minado de console, resolvi tentar o snake.
+Após desenvolver o [campo minado de console](https://github.com/furflez/console-mine-sweeper), resolvi tentar o snake.
 
 ## Desafio
 
  - Desenvolver um snake funcional pelo console.
  - Utilizar o mínimo de recursos extras disponíveis (frameworks, bibliotecas, etc...)
  - Fazer no menor número de arquivos
- 
  
 ## executando
 

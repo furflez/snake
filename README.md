@@ -3,6 +3,8 @@
 
 Mais um pequeno exercício de teste de conhecimento.
 
+![showcase](https://github.com/furflez/snake/blob/main/showcase-snake.gif)
+
 ## Motivação
 Após desenvolver o [campo minado de console](https://github.com/furflez/console-mine-sweeper), resolvi tentar o snake.
 
